@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Jun 02 09:38:22 CST 2017
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=C\:\\Users\\haixingX\\Desktop\\ApkLibCheck.jar
+manifest.mergeall=true
+manifest.mainclass=libchecker.app.lhx.view.MainActivity
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
